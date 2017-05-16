@@ -8,7 +8,8 @@ The goal of Formula To Go is to eliminate the process of entering long formulas 
 Targetting students like myself enrolling in complex math or science courses.
 
 ## Implements:
-SWRevealViewController
+SWRevealViewController <br />
+Swift Coredata
 
 ## Features:
 Library of standard formulas <br />
