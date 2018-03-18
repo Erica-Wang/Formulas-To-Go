@@ -1,6 +1,7 @@
 # Formulas-To-Go
 
-## Will be on the App store by July, 2017.
+## Partially complete
+## Temporarily dropped
 
 iOS application for applying and storing formulas. 
 
